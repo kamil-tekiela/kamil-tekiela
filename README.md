@@ -1,4 +1,4 @@
-## Hi there, I'm Kamil Tekiela - aka [Dharman](https://stackoverflow.com/users/1839439/dharman?tab=profile)
+## Hi there, I'm [Kamil Tekiela](https://kamiltekiela.com/) - aka [Dharman](https://stackoverflow.com/users/1839439/dharman?tab=profile)
 
 I'm an amateur PHP developer. Recently my goal is to give back more to the community. 
 
