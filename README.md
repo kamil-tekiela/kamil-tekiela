@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kamil Tekiela - aka [Dharman](https://stackoverflow.com/users/1839439/dharman?tab=profile)
 
 <!--
 **kamil-tekiela/kamil-tekiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
