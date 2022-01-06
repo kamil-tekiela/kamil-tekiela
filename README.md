@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Kamil Tekiela's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-tekiela&show_icons=true)](https://github.com/kamil-tekiela)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-tekiela)](https://github.com/kamil-tekiela)
