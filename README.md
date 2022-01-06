@@ -1,6 +1,6 @@
 ## Hi there, I'm [Kamil Tekiela](https://kamiltekiela.com/) - aka [Dharman](https://stackoverflow.com/users/1839439/dharman?tab=profile)
 
-I'm an amateur PHP developer. Recently my goal is to give back more to the community. 
+I'm an amateur PHP developer. Recently, my goal has been to give back more to the community. 
 
 I have contributed 4 RFCs to the PHP language:
 - [PHP RFC: Add fetch_column method to mysqli](https://wiki.php.net/rfc/mysqli_fetch_column)
