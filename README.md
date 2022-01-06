@@ -1,5 +1,16 @@
 ### Hi there, I'm Kamil Tekiela - aka [Dharman](https://stackoverflow.com/users/1839439/dharman?tab=profile)
 
+---
+
+I'm an amateur PHP developer. Recently my goal is to give back more to the community. 
+
+--- 
+I have contributed 4 RFCs to the PHP language:
+- [PHP RFC: Add fetch_column method to mysqli](https://wiki.php.net/rfc/mysqli_fetch_column)
+- [PHP RFC: mysqli bind in execute](https://wiki.php.net/rfc/mysqli_bind_in_execute)
+- [PHP RFC: Change Default mysqli Error Mode](https://wiki.php.net/rfc/mysqli_default_errmode)
+- [PHP RFC: Deprecate autovivification on false](https://wiki.php.net/rfc/autovivification_false)
+
 <!--
 **kamil-tekiela/kamil-tekiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
